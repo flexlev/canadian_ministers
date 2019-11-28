@@ -1,0 +1,309 @@
+|name|party|location
+0|Lee Richardson|Conservative|Calgary Centre
+1|Jim Prentice|Conservative|Calgary Centre-North
+2|Deepak Obhrai|Conservative|Calgary East
+3|Devinder Shory|Conservative|Calgary Northeast
+4|Diane Ablonczy|Conservative|Calgary—Nose Hill
+5|Jason Kenney|Conservative|Calgary Southeast
+6|Stephen Harper|Conservative|Calgary Southwest
+7|Rob Anders|Conservative|Calgary West
+8|Kevin Sorenson|Conservative|Crowfoot
+9|Laurie Hawn|Conservative|Edmonton Centre
+10|Peter Goldring|Conservative|Edmonton East
+11|James Rajotte|Conservative|Edmonton—Leduc
+12|Mike Lake|Conservative|Edmonton—Mill Woods—Beaumont
+13|Linda Duncan|NDP|Edmonton—Strathcona
+14|Brent Rathgeber|Conservative|Edmonton—St. Albert
+15|Tim Uppal|Conservative|Edmonton—Sherwood Park
+16|Rona Ambrose|Conservative|Edmonton—Spruce Grove
+17|Brian Jean|Conservative|Fort McMurray—Athabasca
+18|Rick Casson|Conservative|Lethbridge
+19|Ted Menzies|Conservative|Macleod
+20|LaVar Payne|Conservative|Medicine Hat
+21|Chris Warkentin|Conservative|Peace River
+22|Earl Dreeshen|Conservative|Red Deer
+23|Leon Benoit|Conservative|Vegreville—Wainwright
+24|Brian Storseth|Conservative|Westlock—St. Paul
+25|Blaine Calkins|Conservative|Wetaskiwin
+26|Blake Richards|Conservative|Wild Rose
+27|Rob Merrifield|Conservative|Yellowhead
+28|Ed Fast|Conservative|Abbotsford
+29|Alex Atamanenko|NDP|British Columbia Southern Interior
+30|Bill Siksay|NDP|Burnaby—Douglas
+31|Peter Julian|NDP|Burnaby—New Westminster
+32|Richard Harris|Conservative|Cariboo—Prince George
+33|Chuck Strahl|Conservative|Chilliwack—Fraser Canyon
+34|John Cummins|Conservative|Delta—Richmond East
+35|Keith Martin|Liberal|Esquimalt—Juan de Fuca
+36|Nina Grewal|Conservative|Fleetwood—Port Kells
+37|Cathy McLeod|Conservative|Kamloops—Thompson—Cariboo
+38|Ron Cannan|Conservative|Kelowna—Lake Country
+39|Jim Abbott|Conservative|Kootenay—Columbia
+40|Mark Warawa|Conservative|Langley
+41|James Lunney|Conservative|Nanaimo—Alberni
+42|Jean Crowder|NDP|Nanaimo—Cowichan
+43|Dawn Black|NDP|New Westminster—Coquitlam
+44|Sukh Dhaliwal|Liberal|Newton—North Delta
+45|Andrew Saxton|Conservative|North Vancouver
+46|Stockwell Day|Conservative|Okanagan—Coquihalla
+47|Colin Mayes|Conservative|Okanagan—Shuswap
+48|Randy Kamp|Conservative|Pitt Meadows—Maple Ridge—Mission
+49|James Moore|Conservative|Port Moody—Westwood—Port Coquitlam
+50|Jay Hill|Conservative|Prince George—Peace River
+51|Alice Wong|Conservative|Richmond
+52|Gary Lunn|Conservative|Saanich—Gulf Islands
+53|Russ Hiebert|Conservative|South Surrey—White Rock—Cloverdale
+54|Nathan Cullen|NDP|Skeena—Bulkley Valley
+55|Dona Cadman|Conservative|Surrey North
+56|Hedy Fry|Liberal|Vancouver Centre
+57|Libby Davies|NDP|Vancouver East
+58|John Duncan|Conservative|Vancouver Island North
+59|Don Davies|NDP|Vancouver Kingsway
+60|Joyce Murray|Liberal|Vancouver Quadra
+61|Ujjal Dosanjh|Liberal|Vancouver South
+62|Denise Savoie|NDP|Victoria
+63|John Weston|Conservative|West Vancouver—Sunshine Coast—Sea to Sky Country
+64|Merv Tweed|Conservative|Brandon—Souris
+65|Steven Fletcher|Conservative|Charleswood—St. James—Assiniboia
+66|Niki Ashton|NDP|Churchill
+67|Inky Mark|Conservative|Dauphin—Swan River—Marquette
+68|Jim Maloway|NDP|Elmwood—Transcona
+69|Joy Smith|Conservative|Kildonan—St. Paul
+70|Candice Hoeppner|Conservative|Portage—Lisgar
+71|Vic Toews|Conservative|Provencher
+72|Shelly Glover|Conservative|Saint Boniface
+73|James Bezan|Conservative|Selkirk—Interlake
+74|Pat Martin|NDP|Winnipeg Centre
+75|Judy Wasylycia-Leis|NDP|Winnipeg North
+76|Rod Bruinooge|Conservative|Winnipeg South
+77|Anita Neville|Liberal|Winnipeg South Centre
+78|Yvon Godin|NDP|Acadie—Bathurst
+79|Dominic LeBlanc|Liberal|Beauséjour
+80|Keith Ashfield|Conservative|Fredericton
+81|Rob Moore|Conservative|Fundy Royal
+82|Jean-Claude D'Amours|Liberal|Madawaska—Restigouche
+83|Tilly O'Neill-Gordon|Conservative|Miramichi
+84|Brian Murphy|Liberal|Moncton—Riverview—Dieppe
+85|Greg Thompson|Conservative|New Brunswick Southwest
+86|Rodney Weston|Conservative|Saint John
+87|Mike Allen|Conservative|Tobique—Mactaquac
+88|Scott Andrews|Liberal|Avalon
+89|Scott Simms|Liberal|Bonavista—Gander—Grand Falls—Windsor
+90|Gerry Byrne|Liberal|Humber—St. Barbe—Baie Verte
+91|Todd Russell|Liberal|Labrador
+92|Judy Foote|Liberal|Random—Burin—St. George's
+93|Jack Harris|NDP|St. John's East
+94|Siobhán Coady|Liberal|St. John's South—Mount Pearl
+95|Rodger Cuzner|Liberal|Cape Breton—Canso
+96|Peter MacKay|Conservative|Central Nova
+97|Bill Casey|Independent|Cumberland—Colchester—Musquodoboit Valley
+98|Michael Savage|Liberal|Dartmouth—Cole Harbour
+99|Megan Leslie|NDP|Halifax
+100|Geoff Regan|Liberal|Halifax West
+101|Scott Brison|Liberal|Kings—Hants
+102|Peter Stoffer|NDP|Sackville—Eastern Shore
+103|Gerald Keddy|Conservative|South Shore—St. Margaret's
+104|Mark Eyking|Liberal|Sydney—Victoria
+105|Greg Kerr|Conservative|West Nova
+106|Mark Holland|Liberal|Ajax—Pickering
+107|Carol Hughes|NDP|Algoma—Manitoulin—Kapuskasing
+108|David Sweet|Conservative|Ancaster—Dundas—Flamborough—Westdale
+109|Patrick Brown|Conservative|Barrie
+110|Maria Minna|Liberal|Beaches—East York
+111|Gurbax Malhi|Liberal|Bramalea—Gore—Malton
+112|Ruby Dhalla|Liberal|Brampton—Springdale
+113|Andrew Kania|Liberal|Brampton West
+114|Phil McColeman|Conservative|Brant
+115|Larry Miller|Conservative|Bruce—Grey—Owen Sound
+116|Mike Wallace|Conservative|Burlington
+117|Gary Goodyear|Conservative|Cambridge
+118|Gordon O'Connor|Conservative|Carleton—Mississippi Mills
+119|Dave Van Kesteren|Conservative|Chatham-Kent—Essex
+120|Mario Silva|Liberal|Davenport
+121|Yasmin Ratansi|Liberal|Don Valley East
+122|Rob Oliphant|Liberal|Don Valley West
+123|David Tilson|Conservative|Dufferin—Caledon
+124|Bev Oda|Conservative|Durham
+125|Joe Volpe|Liberal|Eglinton—Lawrence
+126|Joe Preston|Conservative|Elgin—Middlesex—London
+127|Jeff Watson|Conservative|Essex
+128|Borys Wrzesnewskyj|Liberal|Etobicoke Centre
+129|Michael Ignatieff|Liberal|Etobicoke—Lakeshore
+130|Kirsty Duncan|Liberal|Etobicoke North
+131|Pierre Lemieux|Conservative|Glengarry—Prescott—Russell
+132|Frank Valeriote|Liberal|Guelph
+133|Diane Finley|Conservative|Haldimand—Norfolk
+134|Barry Devolin|Conservative|Haliburton—Kawartha Lakes—Brock
+135|Lisa Raitt|Conservative|Halton
+136|David Christopherson|NDP|Hamilton Centre
+137|Wayne Marston|NDP|Hamilton East—Stoney Creek
+138|Chris Charlton|NDP|Hamilton Mountain
+139|Ben Lobb|Conservative|Huron—Bruce
+140|Greg Rickford|Conservative|Kenora
+141|Peter Milliken|Liberal|Kingston and the Islands
+142|Stephen Woodworth|Conservative|Kitchener Centre
+143|Harold Albrecht|Conservative|Kitchener—Conestoga
+144|Peter Braid|Conservative|Kitchener—Waterloo
+145|Bev Shipley|Conservative|Lambton—Kent—Middlesex
+146|Scott Reid|Conservative|Lanark—Frontenac—Lennox and Addington
+147|Gord Brown|Conservative|Leeds—Grenville
+148|Irene Mathyssen|NDP|London—Fanshawe
+149|Glen Pearson|Liberal|London North Centre
+150|Ed Holder|Conservative|London West
+151|John McCallum|Liberal|Markham—Unionville
+152|Navdeep Bains|Liberal|Mississauga—Brampton South
+153|Albina Guarnieri|Liberal|Mississauga East—Cooksville
+154|Bob Dechert|Conservative|Mississauga—Erindale
+155|Paul Szabo|Liberal|Mississauga South
+156|Bonnie Crombie|Liberal|Mississauga—Streetsville
+157|Pierre Poilievre|Conservative|Nepean—Carleton
+158|Lois Brown|Conservative|Newmarket—Aurora
+159|Rob Nicholson|Conservative|Niagara Falls
+160|Dean Allison|Conservative|Niagara West—Glanbrook
+161|Claude Gravelle|NDP|Nickel Belt
+162|Anthony Rota|Liberal|Nipissing—Timiskaming
+163|Rick Norlock|Conservative|Northumberland—Quinte West
+164|Terence Young|Conservative|Oakville
+165|Paul Calandra|Conservative|Oak Ridges—Markham
+166|Colin Carrie|Conservative|Oshawa
+167|Paul Dewar|NDP|Ottawa Centre
+168|Royal Galipeau|Conservative|Ottawa—Orléans
+169|David McGuinty|Liberal|Ottawa South
+170|Mauril Bélanger|Liberal|Ottawa—Vanier
+171|John Baird|Conservative|Ottawa West—Nepean
+172|Dave MacKenzie|Conservative|Oxford
+173|Gerard Kennedy|Liberal|Parkdale—High Park
+174|Tony Clement|Conservative|Parry Sound—Muskoka
+175|Gary Schellenberger|Conservative|Perth—Wellington
+176|Dean Del Mastro|Conservative|Peterborough
+177|Dan McTeague|Liberal|Pickering—Scarborough East
+178|Daryl Kramp|Conservative|Prince Edward—Hastings
+179|Cheryl Gallant|Conservative|Renfrew—Nipissing—Pembroke
+180|Bryon Wilfert|Liberal|Richmond Hill
+181|Pat Davidson|Conservative|Sarnia—Lambton
+182|Tony Martin|NDP|Sault Ste. Marie
+183|Jim Karygiannis|Liberal|Scarborough—Agincourt
+184|John Cannis|Liberal|Scarborough Centre
+185|John McKay|Liberal|Scarborough—Guildwood
+186|Michelle Simson|Liberal|Scarborough Southwest
+187|Derek Lee|Liberal|Scarborough—Rouge River
+188|Helena Guergis|Conservative|Simcoe—Grey
+189|Bruce Stanton|Conservative|Simcoe North
+190|Rick Dykstra|Conservative|St. Catharines
+191|Carolyn Bennett|Liberal|St. Paul's
+192|Guy Lauzon|Conservative|Stormont—Dundas—South Glengarry
+193|Glenn Thibeault|NDP|Sudbury
+194|Peter Kent|Conservative|Thornhill
+195|John Rafferty|NDP|Thunder Bay—Rainy River
+196|Bruce Hyer|NDP|Thunder Bay—Superior North
+197|Charlie Angus|NDP|Timmins—James Bay
+198|Bob Rae|Liberal|Toronto Centre
+199|Jack Layton|NDP|Toronto—Danforth
+200|Olivia Chow|NDP|Trinity—Spadina
+201|Maurizio Bevilacqua|Liberal|Vaughan
+202|Malcolm Allen|NDP|Welland
+203|Michael Chong|Conservative|Wellington—Halton Hills
+204|Jim Flaherty|Conservative|Whitby—Oshawa
+205|Martha Hall Findlay|Liberal|Willowdale
+206|Joe Comartin|NDP|Windsor—Tecumseh
+207|Brian Masse|NDP|Windsor West
+208|Ken Dryden|Liberal|York Centre
+209|Peter Van Loan|Conservative|York—Simcoe
+210|Alan Tonks|Liberal|York South—Weston
+211|Judy Sgro|Liberal|York West
+212|Lawrence MacAulay|Liberal|Cardigan
+213|Shawn Murphy|Liberal|Charlottetown
+214|Gail Shea|Conservative|Egmont
+215|Wayne Easter|Liberal|Malpeque
+216|Yvon Lévesque|Bloc Québécois|Abitibi—Baie-James—Nunavik—Eeyou
+217|Marc Lemay|Bloc Québécois|Abitibi—Témiscamingue
+218|Maria Mourani|Bloc Québécois|Ahuntsic
+219|Robert Carrier|Bloc Québécois|Alfred-Pellan
+220|Mario Laframboise|Bloc Québécois|Argenteuil—Papineau—Mirabel
+221|Louis Plamondon|Bloc Québécois|Bas-Richelieu—Nicolet—Bécancour
+222|Maxime Bernier|Conservative|Beauce
+223|Claude DeBellefeuille|Bloc Québécois|Beauharnois—Salaberry
+224|Sylvie Boucher|Conservative|Beauport—Limoilou
+225|Guy André|Bloc Québécois|Berthier—Maskinongé
+226|Denis Coderre|Liberal|Bourassa
+227|Christian Ouellet|Bloc Québécois|Brome—Missisquoi
+228|Alexandra Mendès|Liberal|Brossard—La Prairie
+229|Yves Lessard|Bloc Québécois|Chambly—Borduas
+230|Daniel Petit|Conservative|Charlesbourg—Haute-Saint-Charles
+231|Carole Freeman|Bloc Québécois|Châteauguay—Saint-Constant
+232|Robert Bouchard|Bloc Québécois|Chicoutimi—Le Fjord
+233|France Bonsant|Bloc Québécois|Compton—Stanstead
+234|Roger Pomerleau|Bloc Québécois|Drummond
+235|Raynald Blais|Bloc Québécois|Gaspésie—Îles-de-la-Madeleine
+236|Richard Nadeau|Bloc Québécois|Gatineau
+237|Jean-Yves Roy|Bloc Québécois|Haute-Gaspésie—La Mitis—Matane—Matapédia
+238|Réal Ménard|Bloc Québécois|Hochelaga
+239|Pablo Rodriguez|Liberal|Honoré-Mercier
+240|Marcel Proulx|Liberal|Hull—Aylmer
+241|Thierry St-Cyr|Bloc Québécois|Jeanne-Le Ber
+242|Pierre Paquette|Bloc Québécois|Joliette
+243|Jean-Pierre Blackburn|Conservative|Jonquière—Alma
+244|Francine Lalonde|Bloc Québécois|La Pointe-de-l'Île
+245|Francis Scarpaleggia|Liberal|Lac-Saint-Louis
+246|Lise Zarac|Liberal|LaSalle—Émard
+247|Johanne Deschamps|Bloc Québécois|Laurentides—Labelle
+248|Gilles Duceppe|Bloc Québécois|Laurier—Sainte-Marie
+249|Nicole Demers|Bloc Québécois|Laval
+250|Raymonde Folco|Liberal|Laval—Les Îles
+251|Steven Blaney|Conservative|Lévis—Bellechasse
+252|Jean Dorion|Bloc Québécois|Longueuil—Pierre-Boucher
+253|Jacques Gourde|Conservative|Lotbinière—Chutes-de-la-Chaudière
+254|Pascal-Pierre Paillé|Bloc Québécois|Louis-Hébert
+255|Josée Verner|Conservative|Louis-Saint-Laurent
+256|Gérard Asselin|Bloc Québécois|Manicouagan
+257|Serge Ménard|Bloc Québécois|Marc-Aurèle-Fortin
+258|Christian Paradis|Conservative|Mégantic—L'Érable
+259|Roger Gaudet|Bloc Québécois|Montcalm
+260|Paul Crête|Bloc Québécois|Montmagny—L'Islet—Kamouraska—Rivière-du-Loup
+261|Michel Guimond|Bloc Québécois|Montmorency—Charlevoix—Haute-Côte-Nord
+262|Irwin Cotler|Liberal|Mount Royal
+263|Marlene Jennings|Liberal|Notre-Dame-de-Grâce—Lachine
+264|Thomas Mulcair|NDP|Outremont
+265|Justin Trudeau|Liberal|Papineau
+266|Bernard Patry|Liberal|Pierrefonds—Dollard
+267|Lawrence Cannon|Conservative|Pontiac
+268|André Arthur|Independent|Portneuf—Jacques-Cartier
+269|Christiane Gagnon|Bloc Québécois|Québec
+270|Nicolas Dufour|Bloc Québécois|Repentigny
+271|André Bellavance|Bloc Québécois|Richmond—Arthabaska
+272|Claude Guimond|Bloc Québécois|Rimouski-Neigette—Témiscouata—Les Basques
+273|Luc Desnoyers|Bloc Québécois|Rivière-des-Mille-Îles
+274|Monique Guay|Bloc Québécois|Rivière-du-Nord
+275|Denis Lebel|Conservative|Roberval—Lac-Saint-Jean
+276|Bernard Bigras|Bloc Québécois|Rosemont—La Petite-Patrie
+277|Carole Lavallée|Bloc Québécois|Saint-Bruno—Saint-Hubert
+278|Ève-Mary Thaï Thi Lac|Bloc Québécois|Saint-Hyacinthe—Bagot
+279|Claude Bachand|Bloc Québécois|Saint-Jean
+280|Josée Beaudin|Bloc Québécois|Saint-Lambert
+281|Stéphane Dion|Liberal|Saint-Laurent—Cartierville
+282|Massimo Pacetti|Liberal|Saint-Léonard—Saint-Michel
+283|Jean-Yves Laforest|Bloc Québécois|Saint-Maurice—Champlain
+284|Robert Vincent|Bloc Québécois|Shefford
+285|Serge Cardin|Bloc Québécois|Sherbrooke
+286|Diane Bourgeois|Bloc Québécois|Terrebonne—Blainville
+287|Paule Brunelle|Bloc Québécois|Trois-Rivières
+288|Meili Faille|Bloc Québécois|Vaudreuil—Soulanges
+289|Luc Malo|Bloc Québécois|Verchères—Les Patriotes
+290|Marc Garneau|Liberal|Westmount—Ville-Marie
+291|Gerry Ritz|Conservative|Battlefords—Lloydminster
+292|Lynne Yelich|Conservative|Blackstrap
+293|David L. Anderson|Conservative|Cypress Hills—Grasslands
+294|Rob Clarke|Conservative|Desnethé—Missinippi—Churchill River
+295|Ray Boughen|Conservative|Palliser
+296|Randy Hoback|Conservative|Prince Albert
+297|Tom Lukiwski|Conservative|Regina—Lumsden—Lake Centre
+298|Andrew Scheer|Conservative|Regina—Qu'Appelle
+299|Bradley Trost|Conservative|Saskatoon—Humboldt
+300|Kelly Block|Conservative|Saskatoon—Rosetown—Biggar
+301|Maurice Vellacott|Conservative|Saskatoon—Wanuskewin
+302|Ed Komarnicki|Conservative|Souris—Moose Mountain
+303|Ralph Goodale|Liberal|Wascana
+304|Garry Breitkreuz|Conservative|Yorkton—Melville
+305|Leona Aglukkaq|Conservative|Nunavut
+306|Dennis Bevington|NDP|Western Arctic (Northwest Territories)
+307|Larry Bagnell|Liberal|Yukon

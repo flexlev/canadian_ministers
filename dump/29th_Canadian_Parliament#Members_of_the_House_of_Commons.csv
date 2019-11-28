@@ -1,0 +1,265 @@
+|location|name|party
+0|Bonavista—Trinity—Conception|Dave Rooney|Liberal
+1|Burin—Burgeo|Donald Jamieson|Liberal
+2|Gander—Twillingate|John Lundrigan|Progressive Conservative
+3|Grand Falls—White Bay—Labrador|Bill Rompkey|Liberal
+4|Humber—St. George's—St. Barbe|Jack Marshall|Progressive Conservative
+5|St. John's East|James McGrath|Progressive Conservative
+6|St. John's West|Walter Carter|Progressive Conservative
+7|Cardigan|Daniel J. MacDonald|Liberal
+8|Egmont|David MacDonald|Progressive Conservative
+9|Hillsborough|Heath MacQuarrie|Progressive Conservative
+10|Malpeque|John Angus MacLean|Progressive Conservative
+11|Annapolis Valley|Pat Nowlan|Progressive Conservative
+12|Cape Breton Highlands—Canso|Allan MacEachen|Liberal
+13|Cape Breton—East Richmond|Donald MacInnis|Progressive Conservative
+14|Cape Breton—The Sydneys|Robert Muir|Progressive Conservative
+15|Central Nova|Elmer MacKay|Progressive Conservative
+16|Cumberland—Colchester North|Robert Coates|Progressive Conservative
+17|Dartmouth—Halifax East|Michael Forrestall|Progressive Conservative
+18|Halifax|Robert Stanfield|Progressive Conservative
+19|Halifax—East Hants|Robert McCleave|Progressive Conservative
+20|South Shore|Lloyd Crouse|Progressive Conservative
+21|South Western Nova|Charles Haliburton|Progressive Conservative
+22|Carleton—Charlotte|Fred McCain|Progressive Conservative
+23|Fundy—Royal|Robert Fairweather|Progressive Conservative
+24|Gloucester|Herb Breau|Liberal
+25|Madawaska—Victoria|Eymard Corbin|Liberal
+26|Moncton|Charlie Thomas|Progressive Conservative
+27|Northumberland—Miramichi|Percy Smith|Liberal
+28|Restigouche|Jean-Eudes Dubé|Liberal
+29|Saint John—Lancaster|Thomas Bell|Progressive Conservative
+30|Westmorland—Kent|Roméo LeBlanc|Liberal
+31|York—Sunbury|J. Robert Howie|Progressive Conservative
+32|Abitibi|Gérard Laprise|Social Credit
+33|Ahuntsic|Jeanne Sauvé|Liberal
+34|Argenteuil|Francis Fox|Liberal
+35|Beauce|Yves Caron|Liberal
+36|Beauharnois—Salaberry|Gérald Laniel|Liberal
+37|Bellechasse|Joseph Lambert|Social Credit
+38|Berthier|Antonio Yanakis|Liberal
+39|Brome—Missisquoi|Heward Grafftey|Progressive Conservative
+40|Bonaventure—Îles-de-la-Madeleine|Albert Béchard|Liberal
+41|Montreal—Bourassa|Jacques Trudel|Liberal
+42|Chambly|Yvon L'Heureux|Liberal
+43|Champlain|René Matte|Social Credit
+44|Charlevoix|Gilles Caouette|Social Credit
+45|Chicoutimi|Paul Langlois|Liberal
+46|Compton|Henry Latulippe|Social Credit
+47|Dollard|Jean-Pierre Goyer|Liberal
+48|Drummond|Jean-Marie Boisvert|Social Credit
+49|Duvernay|Yves Demers|Liberal
+50|Frontenac|Léopold Corriveau|Liberal
+51|Gamelin|Arthur Portelance|Liberal
+52|Gaspé|Alexander Cyr|Liberal
+53|Gatineau|Gaston Clermont|Liberal
+54|Hochelaga|Gérard Pelletier|Liberal
+55|Hull|Joseph Isabelle|Liberal
+56|Joliette|Roch La Salle*|Independent then Progressive Conservative
+57|Kamouraska|Charles-Eugène Dionne|Social Credit
+58|Labelle|Maurice Dupras|Liberal
+59|Lac-Saint-Jean|Marcel Lessard|Liberal
+60|Lachine—Lac-Saint-Louis|Roderick Blaker|Liberal
+61|Lafontaine|Georges-C. Lachance|Liberal
+62|Langelier|Jean Marchand|Liberal
+63|Lapointe|Gilles Marceau|Liberal
+64|La Prairie|Ian Watson|Liberal
+65|Lasalle|John Campbell|Liberal
+66|Laurier|Fernand Leblanc|Liberal
+67|Laval|Marcel-Claude Roy|Liberal
+68|Lévis|Raynald Guay|Liberal
+69|Longueuil|Joseph Mario Jacques Olivier|Liberal
+70|Lotbiniere|André-Gilles Fortin|Social Credit
+71|Louis-Hébert|Albanie Morin|Liberal
+72|Maissonneuve—Rosemont|J. Antonio Thomas|Liberal
+73|Manicouagan|Gustave Blouin|Liberal
+74|Matane|Pierre de Bané|Liberal
+75|Mercier|Prosper Boulanger|Liberal
+76|Montmorency|Ovide Laflamme|Liberal
+77|Mount Royal|Pierre Trudeau|Liberal
+78|Notre-Dame-de-Grâce|Warren Allmand|Liberal
+79|Outremont|Marc Lalonde|Liberal
+80|Papineau|André Ouellet|Liberal
+81|Pontiac|Thomas Lefebvre|Liberal
+82|Portneuf|Roland Godin|Social Credit
+83|Quebec East|Gérard Duquet|Liberal
+84|Richelieu|Florian Côté|Liberal
+85|Richmond|Léonel Beaudoin|Social Credit
+86|Rimouski|Eudore Allard|Social Credit
+87|Roberval|Charles-Arthur Gauthier|Social Credit
+88|Saint-Denis|Marcel Prud'homme|Liberal
+89|Saint-Henri|Gérard Loiselle|Liberal
+90|Saint-Hyacinthe|Claude Wagner|Progressive Conservative
+91|Saint-Jacques|Jacques Guilbault|Liberal
+92|Saint-Jean|Walter Smith|Liberal
+93|Saint-Maurice|Jean Chrétien|Liberal
+94|Saint-Michel|Monique Bégin|Liberal
+95|Sainte-Marie|Raymond Dupont|Liberal
+96|Shefford|Gilbert Rondeau|Social Credit
+97|Sherbrooke|Irénée Pelletier|Liberal
+98|Témiscamingue|Réal Caouette|Social Credit
+99|Témiscouata|Rosaire Gendron|Liberal
+100|Terrebonne|Joseph-Roland Comtois|Liberal
+101|Trois-Rivières|Claude G. Lajoie|Liberal
+102|Vaudreuil|Harold Herbert|Liberal
+103|Verdun|Bryce Mackasey|Liberal
+104|Villeneuve|Oza Tétrault|Social Credit
+105|Westmount|Bud Drury|Liberal
+106|Algoma|Maurice Foster|Liberal
+107|Brant|Derek Blackburn|New Democrat
+108|Broadview|John Gilbert|New Democrat
+109|Bruce|Ross Whicher|Liberal
+110|Cochrane|Ralph Stewart|Liberal
+111|Davenport|Charles Caccia|Liberal
+112|Don Valley|James Gillies|Progressive Conservative
+113|Eglinton|Mitchell Sharp|Liberal
+114|Elgin|John Wise|Progressive Conservative
+115|Essex—Windsor|Eugene Whelan|Liberal
+116|Etobicoke|Alastair Gillespie|Liberal
+117|Fort William|Paul McRae|Liberal
+118|Frontenac—Lennox and Addington|Douglas Alkenbrack|Progressive Conservative
+119|Glengarry—Prescott—Russell|Denis Éthier|Liberal
+120|Greenwood|Andrew Brewin|New Democrat
+121|Grenville—Carleton|Walter Baker|Progressive Conservative
+122|Grey—Simcoe|Gus Mitges|Progressive Conservative
+123|Halton|Terry O'Connor|Progressive Conservative
+124|Halton—Wentworth|Bill Kempling|Progressive Conservative
+125|Hamilton East|John Munro|Liberal
+126|Hamilton Mountain|Duncan M. Beattie|Progressive Conservative
+127|Hamilton—Wentworth|Sean O'Sullivan|Progressive Conservative
+128|Hamilton West|Lincoln Alexander|Progressive Conservative
+129|Hastings|Jack Ellis|Progressive Conservative
+130|High Park—Humber Valley|Otto Jelinek|Progressive Conservative
+131|Huron|Robert McKinley|Progressive Conservative
+132|Kenora—Rainy River|John Mercer Reid|Liberal
+133|Kent—Essex|Harold Danforth|Progressive Conservative
+134|Kingston and the Islands|Flora MacDonald|Progressive Conservative
+135|Kitchener|Keith Hymmen|Liberal
+136|Lakeshore|Terry Grier|New Democrat
+137|Lambton—Kent|John Holmes|Progressive Conservative
+138|Lanark—Renfrew—Carleton|Paul Dick|Progressive Conservative
+139|Leeds|Thomas Cossitt|Progressive Conservative
+140|Lincoln|Ken Higson|Progressive Conservative
+141|London East|Charles Turner|Liberal
+142|London West|Judd Buchanan|Liberal
+143|Middlesex|William Frank|Progressive Conservative
+144|Niagara Falls|Joe Hueglin|Progressive Conservative
+145|Nickel Belt|John Rodriguez|New Democrat
+146|Nipissing|Jean-Jacques Blais|Liberal
+147|Norfolk—Haldimand|William David Knowles|Progressive Conservative
+148|Northumberland—Durham|Allan Lawrence|Progressive Conservative
+149|Ontario|Norman Cafik|Liberal
+150|Oshawa—Whitby|Ed Broadbent|New Democrat
+151|Ottawa—Carleton|John Turner|Liberal
+152|Ottawa Centre|Hugh Poulin|Liberal
+153|Ottawa East|Jean-Robert Gauthier|Liberal
+154|Ottawa West|Peter Reilly|Progressive Conservative
+155|Oxford|Wally Nesbitt|Progressive Conservative
+156|Parkdale|Stanley Haidasz|Liberal
+157|Parry Sound—Muskoka|Stan Darling|Progressive Conservative
+158|Peel—Dufferin—Simcoe|Elwood Madill|Progressive Conservative
+159|Peel South|Donald Blenkarn|Progressive Conservative
+160|Perth—Wilmot|William Jarvis|Progressive Conservative
+161|Peterborough|James Hugh Faulkner|Liberal
+162|Port Arthur|Robert Andras|Liberal
+163|Prince Edward—Hastings|George Hees|Progressive Conservative
+164|Renfrew North—Nipissing East|Len Hopkins|Liberal
+165|Rosedale|Donald Stovel Macdonald|Liberal
+166|Sarnia—Lambton|Bud Cullen|Liberal
+167|Sault Ste. Marie|Cyril Symes|New Democrat
+168|Scarborough East|Reginald Stackhouse|Progressive Conservative
+169|Scarborough West|John Paul Harney|New Democrat
+170|Simcoe North|Philip Rynard|Progressive Conservative
+171|Spadina|Peter Stollery|Liberal
+172|St. Catharines|J. Trevor Morgan|Progressive Conservative
+173|St. Paul's|Ron Atkey|Progressive Conservative
+174|Stormont—Dundas|Lucien Lamoureux|Independent
+175|Sudbury|James Jerome|Liberal
+176|Thunder Bay|B. Keith Penner|Liberal
+177|Timiskaming|Arnold Peters|New Democrat
+178|Timmins|Jean Roy|Liberal
+179|Trinity|Paul Hellyer|Liberal
+180|Victoria—Haliburton|William Scott|Progressive Conservative
+181|Waterloo|Max Saltsman|New Democrat
+182|Welland|Victor Railton|Liberal
+183|Wellington|Alfred Hales|Progressive Conservative
+184|Wellington—Grey—Dufferin—Waterloo|Perrin Beatty|Progressive Conservative
+185|Windsor West|Herb Gray|Liberal
+186|Windsor—Walkerville|Mark MacGuigan|Liberal
+187|York Centre|James E. Walker|Liberal
+188|York East|Ian Arrol|Progressive Conservative
+189|York North|Barney Danson|Liberal
+190|York—Scarborough|Robert Stanbury|Liberal
+191|York—Simcoe|Sinclair Stevens|Progressive Conservative
+192|York South|David Lewis|New Democrat
+193|York West|James Fleming|Liberal
+194|Brandon—Souris|Walter Dinsdale|Progressive Conservative
+195|Churchill|Charles Taylor|Progressive Conservative
+196|Dauphin|William Gordon Ritchie|Progressive Conservative
+197|Lisgar|Jack Murta|Progressive Conservative
+198|Marquette|Craig Stewart|Progressive Conservative
+199|Portage|Peter Masniuk|Progressive Conservative
+200|Provencher|Jake Epp|Progressive Conservative
+201|Selkirk|Doug Rowland|New Democrat
+202|St. Boniface|Joseph-Phillippe Guay|Liberal
+203|Winnipeg North|David Orlikow|New Democrat
+204|Winnipeg North Centre|Stanley Knowles|New Democrat
+205|Winnipeg South|James Richardson|Liberal
+206|Winnipeg South Centre|Dan McKenzie|Progressive Conservative
+207|Assiniboia|Bill Knight|New Democrat
+208|Battleford—Kindersley|Norval Horner|Progressive Conservative
+209|Mackenzie|Stanley Korchinski|Progressive Conservative
+210|Meadow Lake|Eli Nesdoly|New Democrat
+211|Moose Jaw|Douglas Neil|Progressive Conservative
+212|Prince Albert|John Diefenbaker|Progressive Conservative
+213|Qu'Apelle—Moose Mountain|Alvin Hamilton|Progressive Conservative
+214|Regina East|James Balfour|Progressive Conservative
+215|Regina—Lake Centre|Leslie Benjamin|New Democrat
+216|Saskatoon—Biggar|Alfred Gleave|New Democrat
+217|Saskatoon—Humboldt|Otto Lang|Liberal
+218|Swift Current—Maple Creek|Frank Hamilton|Progressive Conservative
+219|Yorkton—Melville|Lorne Nystrom|New Democrat
+220|Athabasca|Paul Yewchuk|Progressive Conservative
+221|Battle River|Harry Kuntz|Progressive Conservative
+222|Calgary Centre|Harvie Andre|Progressive Conservative
+223|Calgary North|Eldon Woolliams|Progressive Conservative
+224|Calgary South|Peter Bawden|Progressive Conservative
+225|Crowfoot|Jack Horner|Progressive Conservative
+226|Edmonton Centre|Steve Paproski|Progressive Conservative
+227|Edmonton East|William Skoreyko|Progressive Conservative
+228|Edmonton West|Marcel Lambert|Progressive Conservative
+229|Edmonton—Strathcona|Douglas Roche|Progressive Conservative
+230|Lethbridge|Kenneth Earl Hurlburt|Progressive Conservative
+231|Medicine Hat|Bert Hargrave|Progressive Conservative
+232|Palliser|Stanley Schumacher|Progressive Conservative
+233|Peace River|Ged Baldwin|Progressive Conservative
+234|Pembina|Daniel Hollands|Progressive Conservative
+235|Red Deer|Gordon Towers|Progressive Conservative
+236|Rocky Mountain|Joe Clark|Progressive Conservative
+237|Vegreville|Don Mazankowski|Progressive Conservative
+238|Wetaskiwin|Kenneth Schellenberger|Progressive Conservative
+239|Burnaby—Richmond|John Reynolds|Progressive Conservative
+240|Burnaby—Seymour|Nels Nelson|New Democrat
+241|Capilano|Jack Davis|Liberal
+242|Coast Chilcotin|Harry Olaussen|New Democrat
+243|Comox—Alberni|Tom Barnett|New Democrat
+244|Esquimalt—Saanich|Donald Munro|Progressive Conservative
+245|Fraser Valley East|Alexander Patterson|Progressive Conservative
+246|Fraser Valley West|Mark Rose|New Democrat
+247|Kamloops—Cariboo|Leonard Marchand|Liberal
+248|Kootenay West|Randolph Harding|New Democrat
+249|Nanaimo—Cowichan—The Islands|Tommy Douglas|New Democrat
+250|New Westminster|Stuart Leggatt|New Democrat
+251|Okanagan Boundary|George Whittaker|Progressive Conservative
+252|Okanagan—Kootenay|William Douglas Stewart|Liberal
+253|Prince George—Peace River|Frank Oberle|Progressive Conservative
+254|Skeena|Frank Howard|New Democrat
+255|Surrey—White Rock|Barry Mather|New Democrat
+256|Vancouver Centre|Ron Basford|Liberal
+257|Vancouver East|Paddy Neale|New Democrat
+258|Vancouver Kingsway|Grace MacInnis|New Democrat
+259|Vancouver Quadra|Bill Clarke|Progressive Conservative
+260|Vancouver South|John Fraser|Progressive Conservative
+261|Victoria|Allan McKinnon|Progressive Conservative
+262|Northwest Territories|Wally Firth|New Democrat
+263|Yukon|Erik Nielsen|Progressive Conservative
