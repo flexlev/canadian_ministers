@@ -1,8 +1,6 @@
 var USER_SPEED = "fast";
 
-var width = 980,
-    height = 720,
-	padding = 1,
+var padding = 1,
 	maxRadius = 3;
 	// color = d3.scale.category10();
 	
@@ -15,6 +13,9 @@ var act_codes = [
 	{"code": "mm", "short": "% Male Ministers", "short_french": ""},
 	{"code": "mw", "short": "% Female Ministers", "short_french": ""}
 ];
+
+var color_m = "#0000ff";
+var color_w = "#ff00ff";
 
 
 var speeds = { "slow": 10000, "medium": 200, "fast": 50 };
@@ -34,32 +35,22 @@ var time_notes = [
                 { "start_minute": 1210, "stop_minute": 1300, "src": "images/image11.jpg" },
 
 ];
-var notes_index = 0;
+var notes_index = 0,
+    circle_radius = 4;
 
-const minister_center_x = 540; 
-const minister_center_y = 350;
-const radius_minister = 80
 // Coordinates for activities
 var foci = {};
-foci["dm"] = {x: 250, y: 500 };
-foci["dw"] = {x: 750, y: 500 };
-foci["mm"] = {x: 250, y: 320 };
-foci["mw"] = {x: 750, y: 320 };
-foci["minister"] = {x: minister_center_x, y: minister_center_y };
+foci["dm"] = {x: 195, y: 300 };
+foci["dw"] = {x: 585, y: 300 };
+foci["mm"] = {x: 195, y: 120 };
+foci["mw"] = {x: 585, y: 120 };
 foci["i"] = {x: 500, y: 1000 };
 
 var foci_names = {};
-foci_names["dm"] = {x: 250, y: 690 };
-foci_names["dw"] = {x: 830, y: 690 };
-foci_names["mm"] = {x: 250, y: 140 };
-foci_names["mw"] = {x: 830, y: 140 };
-
-var minister_circle_size = 40;
-
-// Start the SVG
-var svg = d3.select("#chart").append("svg")
-    .attr("width", width)
-    .attr("height", height);
+foci_names["dm"] = {x: 100, y: 300 };
+foci_names["dw"] = {x: 680, y: 300 };
+foci_names["mm"] = {x: 100, y: 120 };
+foci_names["mw"] = {x: 680, y: 120 };
 
 var dates = [{ 'date' : '01, Jan 1930', 'file' : 'image15.jpg', 'info': 'Richard Bedford Bennett (1930-1935)'},
 { 'date' : '01, Feb 1930', 'file' : 'image15.jpg', 'info': 'Richard Bedford Bennett (1930-1935)'},
