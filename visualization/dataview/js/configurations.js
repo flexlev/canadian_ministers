@@ -4,33 +4,51 @@ const height_configurations = 60;
 const svg_configurations = d3.select("#configurations")
    .append("svg")
    .attr("width", width_configurations)
-   .attr("height", height_configurations)
-   .append("g");
-   
+   .attr("height", height_configurations);
+
+const g_selector = svg_configurations.append("g")
+			   						 .attr('transform', 'translate(155,20)');
+
+
+//appending title
+svg_configurations.append('text')
+            .attr("class", "configurations_text")
+            .attr("x", 10)
+            .attr("y", 30)
+            .attr("text-align", "center")
+            .style('font', '15px sans-serif')
+            .style('font-weight', 'bold')
+            .text('Speed of Display');   
 // Fill
-var data = [0, 0.005, 0.01, 0.015, 0.02, 0.025];
+var data = [0, 0.5, 1];
 
 var sliderFill = d3
 .sliderBottom()
 .min(d3.min(data))
 .max(d3.max(data))
-.width(300)
+.width(100)
 .tickFormat(d3.format('.2%'))
-.ticks(5)
-.default(0.015)
-.fill('#2196f3')
-.on('onchange', val => {
-  d3.select('p#value-fill').text(d3.format('.2%')(val));
-});
+.ticks(3)
+.default(0.5)
+.fill('#000000');
 
-var gFill = d3
-.select('div#slider-fill')
-.append('svg')
-.attr('width', 500)
-.attr('height', 100)
-.append('g')
-.attr('transform', 'translate(30,30)');
+g_selector.call(sliderFill)
 
-gFill.call(sliderFill);
+//buttons French English
+var button = d3.button()
+    .on('press', function(d, i) { 
+    	svg_configurations.selectAll('.button').selectAll("text").text("FR");
+    })
+    .on('release', function(d, i) { 
+    	svg_configurations.selectAll('.button').selectAll("text").text("EN");
+    });
 
-d3.select('p#value-fill').text(d3.format('.2%')(sliderFill.value()));
+var data_button = [{label: "EN",     x: 1250, y: 35 }];
+// Add buttons
+var buttons = svg_configurations.selectAll('.button')
+    .data(data_button)
+    .enter()
+    .append('g')
+    .attr('transform', 'translate(1000,20)')
+    .attr('class', 'button')
+    .call(button);

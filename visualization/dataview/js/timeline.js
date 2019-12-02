@@ -24,8 +24,10 @@ const svg_timeline = d3.select("#timeline")
 svg_timeline.append('text')
             .attr("class", "title")
             .attr("y", 20)
-            .attr("x", 500)
+            .attr("x", 400)
             .attr("text-align", "center")
+            .style('font', '25px sans-serif')
+            .style('font-weight', 'bold')
             .text('The Inequalities Between Male and Woman');
 
 //appending prime minister bubble
@@ -92,7 +94,7 @@ function update_minister_timeline(){
 
     timeline_minister_circle
         .attr("fill", "url(#" + dates[Math.ceil(curr_minute/2)]["file"] + ")")
-        .style("stroke", "blue")
+        .style("stroke", color_m)
         .attr("stroke-width", 10);
 }
 

@@ -21,14 +21,14 @@
 		<div id="tracking"></div>
 		<div id="configurations">
 			<div class="row align-items-center">
-			    <div class="col-sm-2">
-			    	<p id="value-fill"></p>
-			    </div>
 			    <div class="col-sm">
 			    	<div id="slider-fill">
 			    	</div>
 			    </div>
 			</div>
+	<!-- 		<div class="form-group  text-right">
+					<button id="hail" type="button" class="btn btn-default" onClick="dispatchButton('hail');">Hail</button>
+			</div> -->
 		</div>
 		<div id="timeline"></div>
 		<div id="sidebar"></div>
@@ -39,6 +39,7 @@
 	<script src="https://unpkg.com/d3-simple-slider"></script>
 	
 	<script src="js/globals.js"></script>
+	<script src="js/button.js"></script>
 	<script src="js/chart.js"></script>
 	<script src="js/timeline.js"></script>
 	<script src="js/sidebar.js"></script>

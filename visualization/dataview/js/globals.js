@@ -8,14 +8,14 @@ var sched_objs = [],
 	curr_minute = 0;
 
 var act_codes = [
-	{"code": "dm", "short": "% Male Deputies", "short_french": ""},
-	{"code": "dw", "short": "% Female Deputies", "short_french": ""},
-	{"code": "mm", "short": "% Male Ministers", "short_french": ""},
-	{"code": "mw", "short": "% Female Ministers", "short_french": ""}
+	{"code": "dm", "short": "Deputies", "short_french": ""},
+	{"code": "dw", "short": "Deputies", "short_french": ""},
+	{"code": "mm", "short": "Ministers", "short_french": ""},
+	{"code": "mw", "short": "Ministers", "short_french": ""}
 ];
 
-var color_m = "#0000ff";
-var color_w = "#ff00ff";
+var color_m = "#57b2f7";
+var color_w = "#b50e70";
 
 
 var speeds = { "slow": 10000, "medium": 200, "fast": 50 };
@@ -47,10 +47,10 @@ foci["mw"] = {x: 585, y: 120 };
 foci["i"] = {x: 500, y: 1000 };
 
 var foci_names = {};
-foci_names["dm"] = {x: 100, y: 300 };
-foci_names["dw"] = {x: 680, y: 300 };
-foci_names["mm"] = {x: 100, y: 120 };
-foci_names["mw"] = {x: 680, y: 120 };
+foci_names["dm"] = {x: 100, y: 180 };
+foci_names["dw"] = {x: 680, y: 180 };
+foci_names["mm"] = {x: 100, y: 30 };
+foci_names["mw"] = {x: 680, y: 30 };
 
 var dates = [{ 'date' : '01, Jan 1930', 'file' : 'image15.jpg', 'info': 'Richard Bedford Bennett (1930-1935)'},
 { 'date' : '01, Feb 1930', 'file' : 'image15.jpg', 'info': 'Richard Bedford Bennett (1930-1935)'},

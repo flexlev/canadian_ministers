@@ -123,12 +123,23 @@ var labour_force_data = [labour_force_female, labour_force_male];
 const width_sidebar = 500;
 const height_sidebar = 420;
 
-const svg_sidebar = d3.select("#sidebar")
+var svg_sidebar = d3.select("#sidebar")
    .append("svg")
    .attr("width", width_sidebar)
    .attr("height", height_sidebar)
-   .append("g")
-    .attr("transform", "translate(60,50)");
+
+svg_sidebar.append('text')
+            .attr("class", "configurations_text")
+            .attr("x", 140)
+            .attr("y", 30)
+            .attr("text-align", "center")
+            .style('font', '18px sans-serif')
+            .style('font-weight', 'bold')
+            .text('Labour Force Representation');   
+
+svg_sidebar = svg_sidebar
+			   	.append("g")
+			    .attr("transform", "translate(60,20)");
 
 var x = d3.scaleLinear()
 	.domain([1930 ,2020])
@@ -136,7 +147,7 @@ var x = d3.scaleLinear()
 
 var y = d3.scaleLinear()
 	.domain([0, 100])
-    .range([height_sidebar, 0]);
+    .range([height_sidebar-50, 0]);
 
 // const y = d3.scale.linear()
 // 			.domain([0, 100])
@@ -152,20 +163,22 @@ var line = d3.line()
 
 var xAxis = d3.axisBottom()
     .scale(x)
-    .ticks(5);
+    .tickPadding(15)
+    .ticks(10);
     // .innerTickSize(15)
     // .outerTickSize(0)
 
 var yAxis = d3.axisLeft()
     .scale(y)
     .tickFormat(function(d) { return d + "%";})
-    .ticks(5);
+    .tickPadding(10)
+    .ticks(10);
     // .innerTickSize(15)
     // .outerTickSize(0);
 
 svg_sidebar.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height_sidebar + ")")
+      .attr("transform", "translate(0," + 370 + ")")
       .call(xAxis);
 
 svg_sidebar.append("g")
@@ -183,13 +196,13 @@ svg_sidebar.append("line")
             "fill" : "none",
             "shape-rendering" : "crispEdges",
             // "stroke" : "black",
-            "stroke-width" : "1px",
+            "stroke-width" : "2px",
             "stroke-dasharray": ("3, 3")
         });
 
 var labour_force_data = svg_sidebar.selectAll(".data")
       .data(labour_force_data)
-    .enter()
+      .enter()
       .append("g")
       .attr("class", "data");
 
@@ -214,104 +227,12 @@ d3.select(path._groups[0][0])
 	.attr("stroke-dasharray", totalLength[0] + " " + totalLength[0] ) 
 	.attr("stroke-dashoffset", totalLength[0])
 	.transition()
-		.duration(tickDuration*12*90)
+		.duration(tickDuration*12*90*2)
 		.attr("stroke-dashoffset", 0);
 
 d3.select(path._groups[0][1])
 	.attr("stroke-dasharray", totalLength[1] + " " + totalLength[1] )
 	.attr("stroke-dashoffset", totalLength[1])
 	.transition()
-		.duration(tickDuration*12*90)
+		.duration(tickDuration*12*90*2)
 		.attr("stroke-dashoffset", 0);
-
-// function initialize_labour_force(){
-
-//     svg_sidebar.append('text')
-//                .attr("class", "title")
-//                .attr("y", 76)
-//                .attr("x", 15)
-//                .attr("text-align", "center")
-//                .text('Labour Force Representation');
-
-//     svg_sidebar.append('text')
-//                .attr("class", "title")
-//                .attr("y", 96)
-//                .attr("x", 80)
-//                .text('By Sex');
-
-//     labour_force_bars = svg_sidebar.selectAll('rect.bar')
-//         .data(labour_force_data)
-//         .enter()
-//         .append('rect')
-//         .attr("class", "bar")
-//         .attr("x", function(d){
-//         	return d["x"];
-//         })
-//         .attr("width", 60)
-//         .style("fill", function(d){ 
-//             return d["color"];
-//         })
-//         .attr("y", function(d){
-//         	return y(100) - (y(d["data"][0]["force"]) - y(0)) ;
-//         })
-//         .attr("height", function(d){
-//         	return (y(d["data"][0]["force"]) - y(0));
-//         });
-
-//     label_labour_forces = svg_sidebar.selectAll('text.bar')
-// 		   .data(labour_force_data)
-// 		   .enter()
-// 		   .append('text')
-//            .attr("class", "female_label_labour_force")
-//            .attr("y", function(d){
-// 	        	return y(100) - (y(d["data"][0]["force"]) - y(0)) - 5;
-// 	        })
-//            .attr("x", function(d){
-// 	        	return d["x"] + 3;
-// 	        })
-//            .text(function(d){
-//            		return d["data"][0]["force"] + " %"
-//             });
-// }
-
-// function update_labour_force(){
-// 	//find index of year
-// 	let index=-1;
-// 	for(i = 0; i < labour_force.length; i++){
-// 		if (labour_force[i][0] == year){
-// 		 	index = i;
-// 		 	break;
-// 		}
-// 	}
-
-// 	if (current_month == 0){
-// 		console.log("call");
-// 		labour_force_bars
-// 	        // .attr("y", function(d){
-// 	        // 	return y(100) - (y(d["data"][index]["force"]) - y(0));
-// 	        // })
-// 	        // .attr("height", function(d){
-// 	        // 	return (y(d["data"][index]["force"]) - y(0));
-// 	        // })
-// 	        .transition()
-// 	        .duration(tickDuration*12)
-// 	        .attr("y", function(d){
-// 	        	return y(100) - (y(d["data"][index]["force"]) - y(0)) ;
-// 	        })
-// 	        .attr("height", function(d){
-// 	        	return (y(d["data"][index]["force"]) - y(0));
-// 	        });
-
-// 	    label_labour_forces
-// 	    	.transition()
-// 	    	.duration(tickDuration*12)
-// 	        .attr("y", function(d){
-// 	        	return y(100) - (y(d["data"][index]["force"]) - y(0)) -5 ;
-// 	        })
-// 	        .attr("height", function(d){
-// 	        	return (y(d["data"][index]["force"]) - y(0)) + 3;
-// 	        }).text(function(d){
-//            		return d["data"][index]["force"] + " %"
-//             });
-// 	}
-// }
